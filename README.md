@@ -15,6 +15,5 @@ nf vsdn vnsndbvs
 vsdnv sdns 
 csbnc asc nbasbc
 csanc nsa
-nsac asn
 prem2023
 siri
