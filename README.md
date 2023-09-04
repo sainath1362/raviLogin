@@ -15,5 +15,3 @@ nf vsdn vnsndbvs
 vsdnv sdns 
 csbnc asc nbasbc
 csanc nsa
-prem2023
-siri
